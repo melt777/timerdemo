@@ -1,0 +1,22 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+    "cortex-debug.openocdPath": "${command:particle.getDebuggerOpenocdPath}",
+    "files.associations": {
+        "*.ino": "cpp",
+        "tuple": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "xlocnum": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "system_error": "cpp",
+        "xtr1common": "cpp"
+    },
+    "particle.firmwareVersion": "1.5.0",
+    "particle.targetDevice": "e00fce6867ccb25034dbe6c5",
+    "particle.targetPlatform": "argon",
+    "git.ignoreLimitWarning": true
+}
